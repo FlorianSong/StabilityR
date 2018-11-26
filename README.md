@@ -16,7 +16,7 @@ From within the R console:
 
 ```coffee
 require(devtools)
-install_github('tleja/StabilityR')
+install_github('floriansong/StabilityR')
 ```
 
 ### Example execution 
